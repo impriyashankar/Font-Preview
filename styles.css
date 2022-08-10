@@ -33,7 +33,7 @@ header {
 }
 
 .preview {
-  align: center;
+  text-align: center;
   background: white;
   font-family: Helvetica;
   font-size: 12px;
