@@ -1,5 +1,5 @@
 
-# Font Preview app
+# Font Preview app 
 > A simple app to preview different web safe fonts, sizes, and weights. 
 > Live demo [_here_](https://impriyashankar.github.io/Font-Preview/). 
 
